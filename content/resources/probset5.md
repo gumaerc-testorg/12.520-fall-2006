@@ -2,8 +2,13 @@
 content_type: resource
 description: The resorce contains 4 set of problems based on the San Andreas fault
   trends, Turcotte & Schubert, and homogeneous deformation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-520-geodynamics-fall-2006/0e6b6d38b0b95165ac6b00a2c88fb2d6_probset5.pdf
+file: /media/courses/12-520-geodynamics-fall-2006/0e6b6d38b0b95165ac6b00a2c88fb2d6_probset5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: probset5.pdf
 uid: 0e6b6d38-b0b9-5165-ac6b-00a2c88fb2d6
