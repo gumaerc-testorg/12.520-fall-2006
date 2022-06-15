@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-520-geodynamics-fall-2006/88884d2ed664068e069a9833b5256b22_RTmovie.avi
+file: /courses/12-520-geodynamics-fall-2006/88884d2ed664068e069a9833b5256b22_RTmovie.avi
 file_type: video/x-msvideo
 learning_resource_types:
 - Lecture Notes

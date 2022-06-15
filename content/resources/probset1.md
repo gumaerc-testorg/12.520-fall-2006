@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-520-geodynamics-fall-2006/2a944eb14f0a2c097996fd3c7413acd0_ProbSet1.pdf
+file: /courses/12-520-geodynamics-fall-2006/2a944eb14f0a2c097996fd3c7413acd0_ProbSet1.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

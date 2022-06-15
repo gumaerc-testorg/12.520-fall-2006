@@ -4,7 +4,7 @@ description: This resource discusses measuring strain using leveling, triangulat
   trilateration, Very Long Baseline Interferometry (VLBI), Global Positioning System
   (GPS) and indirect measurement of strain, and graphical representation of strain
   using Mohr's circle.
-file: /media/courses/12-520-geodynamics-fall-2006/e43795ed3c440e1aa23c1fabb05d3378_lecture8.pdf
+file: /courses/12-520-geodynamics-fall-2006/e43795ed3c440e1aa23c1fabb05d3378_lecture8.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -16,3 +16,5 @@ resourcetype: Document
 title: lecture8.pdf
 uid: e43795ed-3c44-0e1a-a23c-1fabb05d3378
 ---
+This resource discusses measuring strain using leveling, triangulation, trilateration, Very Long Baseline Interferometry (VLBI), Global Positioning System (GPS) and indirect measurement of strain, and graphical representation of strain using Mohr's circle.
+

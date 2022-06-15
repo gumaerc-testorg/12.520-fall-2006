@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-520-geodynamics-fall-2006/0d9bd432ce839ec001c739a8a6e8e0be_probset6a.pdf
+file: /courses/12-520-geodynamics-fall-2006/0d9bd432ce839ec001c739a8a6e8e0be_probset6a.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
