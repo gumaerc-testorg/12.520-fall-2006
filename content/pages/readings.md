@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The readings section lists the course text, supplementary texts, and
+  reference books for the course for the students benefit.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 96fb6f29-4111-51dd-59f5-f5222b935772
 ---
