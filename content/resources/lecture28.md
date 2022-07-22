@@ -5,6 +5,7 @@ file: /courses/12-520-geodynamics-fall-2006/395008a3e7a1ad68960d2594856a670d_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture28.pdf
 uid: 395008a3-e7a1-ad68-960d-2594856a670d
 ---
 This resource discusses the time dependent porous flow.
-

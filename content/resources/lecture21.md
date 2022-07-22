@@ -5,6 +5,7 @@ file: /courses/12-520-geodynamics-fall-2006/c432f426169fb36d5716f5c19658037d_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture21.pdf
 uid: c432f426-169f-b36d-5716-f5c19658037d
 ---
 This resource discusses fluids and Newton's concept of viscosity.
-

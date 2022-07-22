@@ -6,6 +6,7 @@ file: /courses/12-520-geodynamics-fall-2006/f1aafbf7b7287afb75f7a5539e299b86_pro
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: probset7.pdf
 uid: f1aafbf7-b728-7afb-75f7-a5539e299b86
 ---
 The resource contains 1 problem based on mantle viscosity and global return flow with the help of some simple 1-D models.
-

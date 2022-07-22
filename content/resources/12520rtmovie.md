@@ -5,6 +5,7 @@ file: /courses/12-520-geodynamics-fall-2006/049cc86d3ecbab5626ffc45c740645ef_125
 file_type: video/x-msvideo
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 12520RTmovie.avi
 uid: 049cc86d-3ecb-ab56-26ff-c45c740645ef
 ---
 New file Upload
-

@@ -7,6 +7,7 @@ file: /courses/12-520-geodynamics-fall-2006/fb47a13bb7124f94efd9276e415386be_pro
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: probset1.pdf
 uid: fb47a13b-b712-4f94-efd9-276e415386be
 ---
 This resource contains 7 problems based on vector matrix notation, Turcotte & Schubert sign convention for compressive stress, Einstein summation, stress tensor, and lithostatic stress.
-
