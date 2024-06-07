@@ -4,6 +4,7 @@ description: This resource discusses the transformation laws of first- and secon
   tensors, and uses these laws to derive a convenient representation of stress called
   Mohr's circle.
 file: /courses/12-520-geodynamics-fall-2006/994f8f666534c75f34a6cea20843c057_lecture5.pdf
+file_size: 289317
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

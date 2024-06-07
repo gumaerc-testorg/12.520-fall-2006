@@ -3,6 +3,7 @@ content_type: resource
 description: The resource contains 3 set of problems based on Spanish Peaks, basic
   principles of stress rotation near "weak" fault zones, sandbox tectonics.
 file: /courses/12-520-geodynamics-fall-2006/319674f0aa1fd63fe4724c4511b0f246_probset3.pdf
+file_size: 38393
 file_type: application/pdf
 learning_resource_types:
 - Assignments

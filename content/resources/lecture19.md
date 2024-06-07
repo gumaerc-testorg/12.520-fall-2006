@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is in continuation with lecture 18 discussing plates.
 file: /courses/12-520-geodynamics-fall-2006/67b03630d4cc7f3ff612e5df85c63d3b_lecture19.pdf
+file_size: 79045
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
