@@ -3,6 +3,7 @@ content_type: resource
 description: The resource contains 4 problems. Two are based on noncohesive critical
   wedge and two are from the required text.
 file: /courses/12-520-geodynamics-fall-2006/94bb83cc66fa65d0ca454fc17b4ca206_probset4.pdf
+file_size: 101823
 file_type: application/pdf
 learning_resource_types:
 - Assignments
