@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-520-geodynamics-fall-2006/8a7dad166d4541523bfea22103ec2304_probset8.pdf
+file_size: 28849
 file_type: application/pdf
 learning_resource_types:
 - Assignments

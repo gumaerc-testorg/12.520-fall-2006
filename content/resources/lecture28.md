@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource discusses the time dependent porous flow.
 file: /courses/12-520-geodynamics-fall-2006/395008a3e7a1ad68960d2594856a670d_lecture28.pdf
+file_size: 109419
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

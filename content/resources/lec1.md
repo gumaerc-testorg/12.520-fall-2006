@@ -4,6 +4,7 @@ description: The resource discusses terms mechanics, continuum mechanics, contin
   continuity, homogeneity, isotropy, stress, strain and rotaiotn, rheology, and shear
   traction used in the entire course.
 file: /courses/12-520-geodynamics-fall-2006/99e128449da8a3820ffc25f50ea2bf52_lec1.pdf
+file_size: 242959
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

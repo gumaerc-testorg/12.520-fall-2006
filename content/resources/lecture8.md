@@ -5,6 +5,7 @@ description: This resource discusses measuring strain using leveling, triangulat
   (GPS) and indirect measurement of strain, and graphical representation of strain
   using Mohr's circle.
 file: /courses/12-520-geodynamics-fall-2006/e43795ed3c440e1aa23c1fabb05d3378_lecture8.pdf
+file_size: 89653
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
