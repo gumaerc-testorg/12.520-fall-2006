@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is in continuation with lecture 21 discussing fluids further.
-file: /courses/12-520-geodynamics-fall-2006/bf5ea33814e932e94a875d1f4c33dcf8_lecture22.pdf
+file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/bf5ea33814e932e94a875d1f4c33dcf8_lecture22.pdf
 file_size: 58173
 file_type: application/pdf
 learning_resource_types:
