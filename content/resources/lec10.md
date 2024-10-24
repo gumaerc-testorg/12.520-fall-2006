@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses finite strain , its paradox, and reference frame
   for calculating strain with the help Lagrangian and Eulerian case.
-file: /courses/12-520-geodynamics-fall-2006/dff928cd2e2b36148f0d6ad3e48c9f8b_lec10.pdf
+file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/dff928cd2e2b36148f0d6ad3e48c9f8b_lec10.pdf
 file_size: 182226
 file_type: application/pdf
 learning_resource_types:

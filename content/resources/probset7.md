@@ -2,7 +2,7 @@
 content_type: resource
 description: The resource contains 1 problem based on mantle viscosity and global
   return flow with the help of some simple 1-D models.
-file: /courses/12-520-geodynamics-fall-2006/f1aafbf7b7287afb75f7a5539e299b86_probset7.pdf
+file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/f1aafbf7b7287afb75f7a5539e299b86_probset7.pdf
 file_size: 74831
 file_type: application/pdf
 learning_resource_types:

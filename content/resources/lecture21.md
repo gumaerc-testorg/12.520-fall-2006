@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses fluids and Newton's concept of viscosity.
-file: /courses/12-520-geodynamics-fall-2006/c432f426169fb36d5716f5c19658037d_lecture21.pdf
+file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/c432f426169fb36d5716f5c19658037d_lecture21.pdf
 file_size: 72120
 file_type: application/pdf
 learning_resource_types:
