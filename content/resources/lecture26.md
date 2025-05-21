@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses postglacial rebound and its decay of boundary
   undulations.
-file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/8cad3c84f9c0fc5de680ac0198ec793d_lecture26.pdf
+file: /courses/12-520-geodynamics-fall-2006/8cad3c84f9c0fc5de680ac0198ec793d_lecture26.pdf
 file_size: 180286
 file_type: application/pdf
 learning_resource_types:

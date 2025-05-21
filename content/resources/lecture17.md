@@ -2,7 +2,7 @@
 content_type: resource
 description: This resources discusses stress and strain from a screw dislocation and
   St. Venant's principle.
-file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/6f75caa6fc791fa449a3cf36e325e633_lecture17.pdf
+file: /courses/12-520-geodynamics-fall-2006/6f75caa6fc791fa449a3cf36e325e633_lecture17.pdf
 file_size: 86015
 file_type: application/pdf
 learning_resource_types:

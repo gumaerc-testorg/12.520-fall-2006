@@ -2,7 +2,7 @@
 content_type: resource
 description: The resource contains 4 set of problems based on compressive force on
   lithosphere, lithostatic pressure, and solving geodynamics problems.
-file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/dbd53eb29f0fa85c30b9d7570492d44d_probset6.pdf
+file: /courses/12-520-geodynamics-fall-2006/dbd53eb29f0fa85c30b9d7570492d44d_probset6.pdf
 file_size: 63625
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses dislocation in Elastic Halfspace Model of the
   earthquake cycle and displacement from earthquakes, fault slip, etc.
-file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/d921c0fe63d3a35e242068e8829c2014_lecture16.pdf
+file: /courses/12-520-geodynamics-fall-2006/d921c0fe63d3a35e242068e8829c2014_lecture16.pdf
 file_size: 116655
 file_type: application/pdf
 learning_resource_types:
