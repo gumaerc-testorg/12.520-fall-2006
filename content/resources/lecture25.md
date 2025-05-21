@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses the stream function, physical interpretation
   of stream function, and solution of biharmonic.
-file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/727b6a454dc7010cfd42edbe112b4d99_lecture25.pdf
+file: /courses/12-520-geodynamics-fall-2006/727b6a454dc7010cfd42edbe112b4d99_lecture25.pdf
 file_size: 121511
 file_type: application/pdf
 learning_resource_types:
