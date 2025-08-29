@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses the assertion that most of the stress tensor
   in Earth is close to lithostatic and typical tectonic stress.
-file: /courses/12-520-geodynamics-fall-2006/82f80f3849e418b25693756257fd3ee1_lec4.pdf
+file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/82f80f3849e418b25693756257fd3ee1_lec4.pdf
 file_size: 248862
 file_type: application/pdf
 learning_resource_types:

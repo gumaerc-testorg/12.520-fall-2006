@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses plates, plate theory and its application.
-file: /courses/12-520-geodynamics-fall-2006/25cf8745e6bc045e638db44aa7beff58_lecture18.pdf
+file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/25cf8745e6bc045e638db44aa7beff58_lecture18.pdf
 file_size: 99341
 file_type: application/pdf
 learning_resource_types:
