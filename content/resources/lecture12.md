@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses elasticity, its constitutive relations, tensors,
   and  conventional moduli.
-file: /courses/12-520-geodynamics-fall-2006/bffb3fee750e3702461b532866c7d05a_lecture12.pdf
+file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/bffb3fee750e3702461b532866c7d05a_lecture12.pdf
 file_size: 188941
 file_type: application/pdf
 learning_resource_types:

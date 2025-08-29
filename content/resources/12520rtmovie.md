@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: /courses/12-520-geodynamics-fall-2006/049cc86d3ecbab5626ffc45c740645ef_12520RTmovie.avi
+file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/049cc86d3ecbab5626ffc45c740645ef_12520RTmovie.avi
 file_size: 7178932
 file_type: video/x-msvideo
 learning_resource_types:

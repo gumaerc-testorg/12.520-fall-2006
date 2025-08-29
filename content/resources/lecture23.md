@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses Navial-Stokes equation - dimensional formula.
-file: /courses/12-520-geodynamics-fall-2006/53a2a1f39674f170267638e066dd55fe_lecture23.pdf
+file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/53a2a1f39674f170267638e066dd55fe_lecture23.pdf
 file_size: 63554
 file_type: application/pdf
 learning_resource_types:
