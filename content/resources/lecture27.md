@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses flow in porous media.
-file: /courses/12-520-geodynamics-fall-2006/107f250ae5b5a8d8091a2cfb3a65e81b_lecture27.pdf
+file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/107f250ae5b5a8d8091a2cfb3a65e81b_lecture27.pdf
 file_size: 74036
 file_type: application/pdf
 learning_resource_types:

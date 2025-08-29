@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses uniaxial strain and sediment loading erosion.
-file: /courses/12-520-geodynamics-fall-2006/78f04e9bbe040f46512ebe818dd64595_lecture14.pdf
+file: /ol-ocw-studio-app/courses/12-520-geodynamics-fall-2006/78f04e9bbe040f46512ebe818dd64595_lecture14.pdf
 file_size: 45391
 file_type: application/pdf
 learning_resource_types:
